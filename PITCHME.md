@@ -171,7 +171,8 @@ Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 ---
 # Helen Saunders
 
----image=https://richardawarren.files.wordpress.com/2012/01/female-figures-imprisoned.jpg&size=auto 90%
+---?image=https://richardawarren.files.wordpress.com/2012/01/female-figures-imprisoned.jpg&size=auto 90%
+
 Note: Female Figures Imprisoned
 
 ---?image=https://richardawarren.files.wordpress.com/2012/01/composition-in-black.jpg&size=auto 90%
