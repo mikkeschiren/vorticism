@@ -3,9 +3,10 @@
 A short introduction to Vorticism
 
 ---
-# Why
-
+# Why?
 - All things can not be work.
+- Learning stufff outside the work box
+- Good art make you think, bad art make you think maybe even more.
 
 ---
 ### Flux Design
