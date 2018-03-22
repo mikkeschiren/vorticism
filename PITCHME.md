@@ -24,17 +24,22 @@ A short introduction to Vorticism
 - Jessica Dismorr
 
 ---
-### Wyndham Lewis
+# Wyndham Lewis
+
+---
+
 ![External Image](http://www.bridgemanimages.com/uploads/e15a81540a59c197cb5df6e8a0b635bcf0997e15.JPG)
 
 Mr Wyndham Lewis as a Tyro, c.1920-21
 
-
----
-### Wyndham Lewis
-![Two Mechanics](http://www.tate.org.uk/art/images/work/T/T00/T00108_10.jpg)
+---?image=http://www.tate.org.uk/art/images/work/T/T00/T00108_10.jpg&size=auto 90%
 
 Two Mechanics c. 1912
+
+
+---
+
+![Composition](http://www.tate.org.uk/art/images/work/N/N05/N05886_10.jpg)
 
 ---
 # Wyndham Lewis
