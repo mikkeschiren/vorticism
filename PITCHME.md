@@ -105,8 +105,6 @@ Note: Two Mechanics c. 1912
 
 Note: Composition
 
-#
-
 ---
 # Wyndham Lewis
 
@@ -114,13 +112,11 @@ Note: Composition
 - Despicte the edwardian way of living
 - Published the Vorticism manifesto
 ---
-
 # Wyndham Lewis
 
 - Maybe a real dick head
 - But in many ways, a great artist
 - Bonus fact: wrothe the first biography in english about Adolf Hitler.
-
 ---
 # Ezra Pound
 
@@ -170,6 +166,9 @@ Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 Note: Female Figures Imprisoned
 
 ---?image=https://richardawarren.files.wordpress.com/2012/01/composition-in-black.jpg&size=auto 90%
+
+---?image=http://www.tate.org.uk/art/images/work/T/T00/T00622_10.jpg&size=auto 90%
+
 
 ---
 # Learn more
