@@ -44,21 +44,14 @@ Two Mechanics c. 1912
 - Published the Vorticism manifesto
 ---
 
-
-
----
-# Vorticism
-
-- 1912-
----
-
 # Wyndham Lewis
 
 - Maybe a real dick head
 - But in many ways, a great artist
 - Bonus fact: wrothe the first biography in english about Adolf Hitler.
 
+---
 
 # Questions?
 
-@fa[comment fa-5x](Sounds great!)
+@fa[comment fa-5x]
