@@ -37,6 +37,44 @@ A short introduction to Vorticism
 ---?image=https://farm4.static.flickr.com/3710/12414454865_426731752e_b.jpg&size=auto 90%
 ---?image=https://farm4.static.flickr.com/3830/12639276164_7cbe37fa8d_b.jpg&size=auto 90%
 ---?image=https://farm3.static.flickr.com/2855/12414454235_13d2f2a7ce_b.jpg&size=auto 90%
+Note: I cling to the spar,
+
+Washed with the cold salt ice
+
+I cling to the spar–
+
+Insidious modern waves, civilization, civilized hidden snares.
+
+Cowardly editors threaten: ‘‘If I dare”
+
+Say this or that, or speak my open mind,
+
+Say that I hate may hates,
+
+Say that I love my friends,
+
+Say I believe in Lewis, spit out the later Rodin,
+
+Say that Epstein can carve in stone,
+
+That Brzeska can use the chisel,
+
+Or Wadsworth paint;
+
+Then they will have my guts;
+
+They will cut down my wage, force me to sing their cant,
+
+Uphold the press, and be before all a model of literary decorum.
+
+Merde!
+
+Cowardly editors threaten,
+
+Friends fall off at the pinch, the loveliest die.
+
+That is the path of life, this is my forest.
+
 ---?image=https://farm4.static.flickr.com/3666/12638795755_c2fdabfc3b_b.jpg&size=auto 90%
 ---?image=https://farm8.static.flickr.com/7394/12638936643_ba7cb3eb19_b.jpg&size=auto 90%
 ---?image=http://www.bl.uk/learning/images/21cc/counterculture/Blessthehairdresser.jpg&size=auto 90%
