@@ -26,6 +26,8 @@ A short introduction to Vorticism
 ---
 # Wyndham Lewis
 
+![Photo](https://upload.wikimedia.org/wikipedia/commons/d/df/Wyndham_Lewis_photo_by_George_Charles_Beresford_1929.jpg)
+
 ---?image=http://www.bridgemanimages.com/uploads/e15a81540a59c197cb5df6e8a0b635bcf0997e15.JPG&size=auto 90%
 
 Note: Mr Wyndham Lewis as a Tyro, c.1920-21
@@ -38,6 +40,8 @@ Note: Two Mechanics c. 1912
 ---?image=http://www.tate.org.uk/art/images/work/N/N05/N05886_10.jpg&size=auto 90%
 
 Note: Composition
+
+#
 
 ---
 # Wyndham Lewis
