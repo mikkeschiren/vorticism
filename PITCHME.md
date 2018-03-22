@@ -5,16 +5,48 @@ A short introduction to Vorticism
 ---
 # Why?
 - All things can not be work.
-- Learning stufff outside the work box
-- Good art make you think, bad art make you think maybe even more.
+- Maybe learning new stufff outside the work box
+- I like to talk about art
+- Maybe not the most political correct art movement to talk about, and that makes it even more interesting.
 
 ---
-### Flux Design
+# Shot lived
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- 1914-1916
 
 ---
+## Names
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+- Wyndham Lewis
+- Ezra Pound
+- Helen Saunders
+- Jessica Dismorr
+
+---
+### Wyndham Lewis
+
+
+![External Image](http://www.bridgemanimages.com/uploads/e15a81540a59c197cb5df6e8a0b635bcf0997e15.JPG)
+
+
+---
+# Wyndham Lewis
+
+- Dreamt about a mechanical world order
+- Despicte the edwardian way of living
+- Published the Vorticism manifesto
+---
+
+
+
+---
+# Vorticism
+
+- 1912-
+---
+
+# Wyndham Lewis
+
+- Maybe a real dick head
+- But in many ways, a great artist
+- Bonus fact: wrothe the first biography in english about Adolf Hitler.
