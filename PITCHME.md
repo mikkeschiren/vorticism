@@ -86,14 +86,15 @@ Note: Composition
 # Wyndham Lewis
 
 - Dreamt about a mechanical world order
-- Despicte the edwardian way of living
+- Hated the edwardian way of living
 - Published the Vorticism manifesto
+
 ---
 # Wyndham Lewis
 
-- Maybe a real dick head
+- Maybe a real dick head (hated homosexuals, jews, and in the end - avant-garde)
 - But in many ways, a great artist
-- Bonus fact: wrothe the first biography in english about Adolf Hitler.
+- Bonus fact: wrote the first biography about Adolf Hitler 1930 - calling him a man of peace (though: regretted his words in 1937)
 
 ---
 # Ezra Pound
