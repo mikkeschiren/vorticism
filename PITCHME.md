@@ -26,7 +26,7 @@ A short introduction to Vorticism
 ---
 # Wyndham Lewis
 
----?image=(http://www.bridgemanimages.com/uploads/e15a81540a59c197cb5df6e8a0b635bcf0997e15.JPG&size=auto 90%
+---?image=http://www.bridgemanimages.com/uploads/e15a81540a59c197cb5df6e8a0b635bcf0997e15.JPG&size=auto 90%
 
 Note: Mr Wyndham Lewis as a Tyro, c.1920-21
 
