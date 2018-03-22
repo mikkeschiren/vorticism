@@ -30,7 +30,8 @@ A short introduction to Vorticism
 - Aginst landscapes and nudes
 - Celebrating the machine
 
----?image=http://www.bl.uk/learning/images/21cc/counterculture/Blessthehairdresser.jpg?size=auto 90%
+---?image=http://www.bl.uk/learning/images/21cc/counterculture/Blessthehairdresser.jpg&size=auto 90%
+
 
 ---
 
@@ -67,6 +68,16 @@ Note: Composition
 - Maybe a real dick head
 - But in many ways, a great artist
 - Bonus fact: wrothe the first biography in english about Adolf Hitler.
+
+---
+
+---
+# Ezra Pound
+
+
+---?image=http://www.tate.org.uk/art/images/work/N/N05/N05042_10.jpg&size=auto 90%
+
+Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 
 ---
 # Learn more
