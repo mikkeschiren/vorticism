@@ -95,9 +95,9 @@ Note: Composition
 - But in many ways, a great artist
 - Bonus fact: wrothe the first biography in english about Adolf Hitler.
 ---
-# Ezra Pound
 
----?image=https://en.wikipedia.org/wiki/Ezra_Pound#/media/File:Ezra_Pound_2.jpg&size=auto 90%
+
+---?image=https://upload.wikimedia.org/wikipedia/commons/8/87/Ezra_Pound_2.jpg&size=auto 90%
 
 Note: The lateral vibrations caress me,
 They leap and caress me,
