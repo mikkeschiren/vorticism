@@ -122,13 +122,9 @@ Note: Composition
 - Bonus fact: wrothe the first biography in english about Adolf Hitler.
 
 ---
-
----
 # Ezra Pound
 
 ---?image=https://en.wikipedia.org/wiki/Ezra_Pound#/media/File:Ezra_Pound_2.jpg&size=auto 90%
-
----
 
 Note: The lateral vibrations caress me,
 They leap and caress me,
@@ -167,8 +163,6 @@ Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 - Time magazine: a cat that walks by himself, tenaciously unhousebroken and very unsafe for children.
 
 ---
-
----
 # Helen Saunders
 
 ---?image=https://richardawarren.files.wordpress.com/2012/01/female-figures-imprisoned.jpg&size=auto 90%
@@ -177,6 +171,7 @@ Note: Female Figures Imprisoned
 
 ---?image=https://richardawarren.files.wordpress.com/2012/01/composition-in-black.jpg&size=auto 90%
 
+---
 # Learn more
 
 http://www.vorticism.co.uk/
