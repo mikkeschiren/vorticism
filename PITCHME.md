@@ -24,10 +24,16 @@ A short introduction to Vorticism
 
 ---
 ### Wyndham Lewis
-
-
 ![External Image](http://www.bridgemanimages.com/uploads/e15a81540a59c197cb5df6e8a0b635bcf0997e15.JPG)
 
+Mr Wyndham Lewis as a Tyro, c.1920-21
+
+
+---
+### Wyndham Lewis
+![Two Mechanics](http://www.tate.org.uk/art/images/work/T/T00/T00108_10.jpg)
+
+Two Mechanics c. 1912
 
 ---
 # Wyndham Lewis
