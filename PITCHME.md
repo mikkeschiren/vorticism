@@ -160,7 +160,7 @@ Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 - Liked Mussolini and Hitler
 - Had the same misstress for
 - Spent 12 years is asylum
-- Time magazine: a cat that walks by himself, tenaciously unhousebroken and very unsafe for children.
+- Time magazine: _a cat that walks by himself, tenaciously unhousebroken and very unsafe for children._
 
 ---
 # Helen Saunders
