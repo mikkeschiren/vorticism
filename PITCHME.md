@@ -124,10 +124,42 @@ Note: Composition
 ---
 # Ezra Pound
 
+---?image=https://en.wikipedia.org/wiki/Ezra_Pound#/media/File:Ezra_Pound_2.jpg&size=auto 90%
+Note: The lateral vibrations caress me,
+They leap and caress me,
+They work pathetically in my favour,
+They seek my financial good.
+
+She of the spear stands present.
+The gods of the underworld attend me, O Annubis,
+These are they of thy company.
+With a pathetic solicitude they attend me;
+Undulant,
+Their realm is the lateral courses.
+
+Light!
+I am up to follow thee, Pallas.
+Up and out of their caresses.
+You were gone up as a rocket,
+Bending your passages from right to left and from left to right
+In the flat projection of a spiral.
+The gods of drugged sleep attend me,
+Wishing me well;
+I am up to follow thee, Pallas.s
 
 ---?image=http://www.tate.org.uk/art/images/work/N/N05/N05042_10.jpg&size=auto 90%
 
 Note: Potrait of Ezra Pound, painted by Lyndham Lewis
+
+---
+# Ezra Pound
+
+- One of most important modernist poets
+- Born in US
+- Liked Mussolini and Hitler
+- Had the same misstress for
+- Spent 12 years is asylum
+- Time magazine: a cat that walks by himself, tenaciously unhousebroken and very unsafe for children.
 
 ---
 # Learn more
