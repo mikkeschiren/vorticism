@@ -2,7 +2,6 @@
 
 A short introduction to Vorticism
 
-@fa[thumbs-up fa-5x](Sounds great!)
 
 ---
 # Why?
@@ -58,3 +57,8 @@ Two Mechanics c. 1912
 - Maybe a real dick head
 - But in many ways, a great artist
 - Bonus fact: wrothe the first biography in english about Adolf Hitler.
+
+
+# Questions?
+
+@fa[comment fa-5x](Sounds great!)
