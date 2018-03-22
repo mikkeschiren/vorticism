@@ -1,9 +1,13 @@
-# Vorticism 
+# Vorticism
 
 A short introduction to Vorticism
 
 ---
+# Why
 
+- All things can not be work.
+
+---
 ### Flux Design
 
 - Dispatcher: Manages Data Flow
