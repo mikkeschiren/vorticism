@@ -2,7 +2,6 @@
 
 A short introduction to Vorticism
 
-
 ---
 # Why?
 - All things can not be work.
@@ -13,7 +12,7 @@ A short introduction to Vorticism
 ---
 # Short lived
 
-- 1914-1916
+- 1914-1915
 
 ---
 ## Names
@@ -38,49 +37,28 @@ A short introduction to Vorticism
 ---?image=https://farm4.static.flickr.com/3830/12639276164_7cbe37fa8d_b.jpg&size=auto 90%
 ---?image=https://farm3.static.flickr.com/2855/12414454235_13d2f2a7ce_b.jpg&size=auto 90%
 Note: I cling to the spar,
-
 Washed with the cold salt ice
-
 I cling to the spar–
-
 Insidious modern waves, civilization, civilized hidden snares.
-
 Cowardly editors threaten: ‘‘If I dare”
-
 Say this or that, or speak my open mind,
-
 Say that I hate may hates,
-
 Say that I love my friends,
-
 Say I believe in Lewis, spit out the later Rodin,
-
 Say that Epstein can carve in stone,
-
 That Brzeska can use the chisel,
-
 Or Wadsworth paint;
-
 Then they will have my guts;
-
 They will cut down my wage, force me to sing their cant,
-
 Uphold the press, and be before all a model of literary decorum.
-
 Merde!
-
 Cowardly editors threaten,
-
 Friends fall off at the pinch, the loveliest die.
-
 That is the path of life, this is my forest.
 
 ---?image=https://farm4.static.flickr.com/3666/12638795755_c2fdabfc3b_b.jpg&size=auto 90%
 ---?image=https://farm8.static.flickr.com/7394/12638936643_ba7cb3eb19_b.jpg&size=auto 90%
 ---?image=http://www.bl.uk/learning/images/21cc/counterculture/Blessthehairdresser.jpg&size=auto 90%
-
-
-
 
 ---
 # Futurism and cubism
@@ -99,7 +77,6 @@ Note: Mr Wyndham Lewis as a Tyro, c.1920-21
 ---?image=http://www.tate.org.uk/art/images/work/T/T00/T00108_10.jpg&size=auto 90%
 
 Note: Two Mechanics c. 1912
-
 
 ---?image=http://www.tate.org.uk/art/images/work/N/N05/N05886_10.jpg&size=auto 90%
 
@@ -154,9 +131,16 @@ Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 - One of most important modernist poets
 - Born in the USA
 - Liked Mussolini and Hitler
-- Had the same misstress for
+- Had the same mistress for almsot 50 years.
 - Spent 12 years is asylum
 - Time magazine: _a cat that walks by himself, tenaciously unhousebroken and very unsafe for children._
+
+
+---
+# Dorothy Shakespear
+
+---?image=https://upload.wikimedia.org/wikipedia/en/c/c1/EzraPound_Ripostes.png&siz=auto 90%
+
 
 ---
 # Helen Saunders
