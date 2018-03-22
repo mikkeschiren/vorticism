@@ -85,6 +85,8 @@ That is the path of life, this is my forest.
 ---
 # Futurism and cubism
 
+Note:
+---
 
 # Wyndham Lewis
 
@@ -125,6 +127,9 @@ Note: Composition
 # Ezra Pound
 
 ---?image=https://en.wikipedia.org/wiki/Ezra_Pound#/media/File:Ezra_Pound_2.jpg&size=auto 90%
+
+---
+
 Note: The lateral vibrations caress me,
 They leap and caress me,
 They work pathetically in my favour,
@@ -155,13 +160,22 @@ Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 # Ezra Pound
 
 - One of most important modernist poets
-- Born in US
+- Born in the USA
 - Liked Mussolini and Hitler
 - Had the same misstress for
 - Spent 12 years is asylum
 - Time magazine: a cat that walks by himself, tenaciously unhousebroken and very unsafe for children.
 
 ---
+
+---
+# Helen Saunders
+
+---image=https://richardawarren.files.wordpress.com/2012/01/female-figures-imprisoned.jpg&size=auto 90%
+Note: Female Figures Imprisoned
+
+---?image=https://richardawarren.files.wordpress.com/2012/01/composition-in-black.jpg&size=auto 90%
+
 # Learn more
 
 http://www.vorticism.co.uk/
