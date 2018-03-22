@@ -11,7 +11,7 @@ A short introduction to Vorticism
 - Maybe not the most political correct art movement to talk about, and that makes it even more interesting.
 
 ---
-# Shot lived
+# Short lived
 
 - 1914-1916
 
@@ -24,8 +24,18 @@ A short introduction to Vorticism
 - Jessica Dismorr
 
 ---
-# Wyndham Lewis
+# Manifesto
 
+- The first (of two issues) of BLAST were the group manifesto
+- Aginst landscapes and nudes
+- Celebrating the machine
+
+---?image=http://www.bl.uk/learning/images/21cc/counterculture/Blessthehairdresser.jpg?size=auto 90%
+
+---
+
+
+# Wyndham Lewis
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/d/df/Wyndham_Lewis_photo_by_George_Charles_Beresford_1929.jpg&size=auto 90%
 
@@ -57,6 +67,11 @@ Note: Composition
 - Maybe a real dick head
 - But in many ways, a great artist
 - Bonus fact: wrothe the first biography in english about Adolf Hitler.
+
+---
+# Learn more
+
+http://www.vorticism.co.uk/
 
 ---
 
