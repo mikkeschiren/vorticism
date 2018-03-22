@@ -139,7 +139,7 @@ Note: Potrait of Ezra Pound, painted by Lyndham Lewis
 ---
 # Dorothy Shakespear
 
----?image=https://upload.wikimedia.org/wikipedia/en/c/c1/EzraPound_Ripostes.png 90%
+---?image=https://upload.wikimedia.org/wikipedia/en/c/c1/EzraPound_Ripostes.png&size=auto 90%
 
 
 ---
