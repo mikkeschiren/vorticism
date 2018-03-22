@@ -2,6 +2,8 @@
 
 A short introduction to Vorticism
 
+@fa[thumbs-up fa-5x](Sounds great!)
+
 ---
 # Why?
 - All things can not be work.
