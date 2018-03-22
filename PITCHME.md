@@ -26,7 +26,8 @@ A short introduction to Vorticism
 ---
 # Wyndham Lewis
 
-![Photo](https://upload.wikimedia.org/wikipedia/commons/d/df/Wyndham_Lewis_photo_by_George_Charles_Beresford_1929.jpg)
+
+---?image=https://upload.wikimedia.org/wikipedia/commons/d/df/Wyndham_Lewis_photo_by_George_Charles_Beresford_1929.jpg&size=auto 90%
 
 ---?image=http://www.bridgemanimages.com/uploads/e15a81540a59c197cb5df6e8a0b635bcf0997e15.JPG&size=auto 90%
 
