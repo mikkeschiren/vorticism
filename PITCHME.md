@@ -30,10 +30,22 @@ A short introduction to Vorticism
 - Aginst landscapes and nudes
 - Celebrating the machine
 
+
+---?image=https://farm8.static.flickr.com/7315/12638796445_b6d9224361_b.jpg&size=auto 90%
+
+---?image=https://farm8.static.flickr.com/7446/12638936143_f0e22d25a4_b.jpg&size=auto 90%
+---?image=https://farm4.static.flickr.com/3710/12414454865_426731752e_b.jpg&size=auto 90%
+---?image=https://farm4.static.flickr.com/3830/12639276164_7cbe37fa8d_b.jpg&size=auto 90%
+---?image=https://farm3.static.flickr.com/2855/12414454235_13d2f2a7ce_b.jpg&size=auto 90%
+---?image=https://farm4.static.flickr.com/3666/12638795755_c2fdabfc3b_b.jpg&size=auto 90%
+---?image=https://farm8.static.flickr.com/7394/12638936643_ba7cb3eb19_b.jpg&size=auto 90%
 ---?image=http://www.bl.uk/learning/images/21cc/counterculture/Blessthehairdresser.jpg&size=auto 90%
 
 
+
+
 ---
+# Futurism and cubism
 
 
 # Wyndham Lewis
