@@ -35,7 +35,7 @@ Note: Mr Wyndham Lewis as a Tyro, c.1920-21
 Note: Two Mechanics c. 1912
 
 
----http://www.tate.org.uk/art/images/work/N/N05/N05886_10.jpg&size=auto 90%
+---?image=http://www.tate.org.uk/art/images/work/N/N05/N05886_10.jpg&size=auto 90%
 
 Note: Composition
 
