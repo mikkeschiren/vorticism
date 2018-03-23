@@ -15,6 +15,7 @@ A short introduction to Vorticism
 - 1914-1915
 
 ---?image=images/the_crowd.jpg&size=auto 90%
+Note: The Vorticists at the Restaurant de la Tour Eiffel: Spring 1915 (1961-62) by William Roberts. Roberts depicts himself (seated second form left) between Ezra Pound and Wyndham Lewis, marking the first issue of their magazine Blast.
 
 ---
 ## Names
@@ -23,17 +24,17 @@ A short introduction to Vorticism
 - Ezra Pound
 - Helen Saunders
 - Jessica Dismorr
+- Dorothy Shakespear
 
 ---
 # Manifesto
 
 - The first (of two issues) of BLAST were the group manifesto
-- Aginst landscapes and nudes
+- Against landscapes and classic nudes
 - Celebrating the machine
 
 
 ---?image=https://farm8.static.flickr.com/7315/12638796445_b6d9224361_b.jpg&size=auto 90%
-
 ---?image=https://farm8.static.flickr.com/7446/12638936143_f0e22d25a4_b.jpg&size=auto 90%
 ---?image=https://farm4.static.flickr.com/3710/12414454865_426731752e_b.jpg&size=auto 90%
 ---?image=https://farm4.static.flickr.com/3830/12639276164_7cbe37fa8d_b.jpg&size=auto 90%
@@ -65,7 +66,8 @@ That is the path of life, this is my forest.
 ---
 # Futurism and cubism
 
-Note:
+Note: Futurism was mainly a italian art movement, also in love with the machines, and forza - forward. Many of them ended up as fascist.
+Cubism were centred around Picasso, many of them socialist.
 ---
 
 # Wyndham Lewis
@@ -94,10 +96,20 @@ Note: Composition
 ---
 # Wyndham Lewis
 
-- Maybe a real dick head (hated homosexuals, jews, and in the end - avant-garde)
+- Maybe a real dick head
 - But in many ways, a great artist
-- Bonus fact: wrote the first biography about Adolf Hitler 1930 - calling him a man of peace (though: regretted his words in 1937)
+- Bonus fact: wrote the first biography about Adolf Hitler 1930 - calling him a man of peace 1930
 
+Note: (hated homosexuals, jews, and in the end - avant-garde) - Hitler (though: regretted his words in 1937)
+
+---
+# Edward Wadsworth
+
+---?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_5.jpg&size=auto 90%
+
+---?image=http://media.findartinfo.com/images/artwork/2007/7/a001228292-001.jpg&size=auto 90%
+
+---?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_3-695x761.jpg&size=auto 90%
 ---
 # Ezra Pound
 
@@ -157,14 +169,17 @@ Note: Female Figures Imprisoned
 
 ---?image=http://www.tate.org.uk/art/images/work/T/T00/T00622_10.jpg&size=auto 90%
 
+
+
+----
+# One exhibition in the groups existens
+
+---?image=https://upload.wikimedia.org/wikipedia/de/9/98/First_Vorticist_Exhibition_Dor%C3%A9_Gallery_London_June_1915.jpg&size=auto 90%
+
 ---
-# Edward Wadsworth
+# The first world war ended the movement
 
----?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_5.jpg&size=auto 90%
-
----?image=http://media.findartinfo.com/images/artwork/2007/7/a001228292-001.jpg&size=auto 90%
-
----?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_3-695x761.jpg&size=auto 90%
+---?image=https://upload.wikimedia.org/wikipedia/commons/4/45/Blast2.jpg&size=auto 90%
 
 
 ---
