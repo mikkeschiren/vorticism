@@ -174,6 +174,8 @@ Note: Female Figures Imprisoned
 ----
 # One exhibition in the groups existens
 
+---
+
 ---?image=https://upload.wikimedia.org/wikipedia/de/9/98/First_Vorticist_Exhibition_Dor%C3%A9_Gallery_London_June_1915.jpg&size=auto 90%
 
 ---
