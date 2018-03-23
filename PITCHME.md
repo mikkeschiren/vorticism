@@ -6,8 +6,9 @@ A short introduction to Vorticism
 # Why?
 - All things can not be work.
 - Maybe learning new stufff outside the work box
-- I like to talk about art
-- Maybe not the most political correct art movement to talk about, and that makes it even more interesting.
+
+Note: Maybe not the most political correct art movement to talk about, and that makes it even more interesting.
+
 
 ---
 # Short lived
@@ -15,6 +16,7 @@ A short introduction to Vorticism
 - 1914-1915
 
 ---?image=images/the_crowd.jpg&size=auto 90%
+
 Note: The Vorticists at the Restaurant de la Tour Eiffel: Spring 1915 (1961-62) by William Roberts. Roberts depicts himself (seated second form left) between Ezra Pound and Wyndham Lewis, marking the first issue of their magazine Blast.
 
 ---
