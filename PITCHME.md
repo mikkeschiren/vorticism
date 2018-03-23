@@ -155,6 +155,15 @@ Note: Female Figures Imprisoned
 
 ---?image=http://www.tate.org.uk/art/images/work/T/T00/T00622_10.jpg&size=auto 90%
 
+---
+# Edward Wadsworth
+
+---?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_5.jpg&size=auto 90%
+
+---?image=http://media.findartinfo.com/images/artwork/2007/7/a001228292-001.jpg&size=auto 90%
+
+---?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_3-695x761.jpg&size=auto 90%
+
 
 ---
 # Learn more
