@@ -96,7 +96,7 @@ Note: Composition
 ---
 # Wyndham Lewis
 
-- Maybe a real dick head
+- A real dick head
 - But in many ways, a great artist
 - Bonus fact: wrote the first biography about Adolf Hitler 1930 - calling him a man of peace 1930
 
@@ -110,6 +110,8 @@ Note: (hated homosexuals, jews, and in the end - avant-garde) - Hitler (though: 
 ---?image=http://media.findartinfo.com/images/artwork/2007/7/a001228292-001.jpg&size=auto 90%
 
 ---?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_3-695x761.jpg&size=auto 90%
+
+---?image=https://3.bp.blogspot.com/-Bn8JGoR83kQ/VR7kRNwYCVI/AAAAAAAAPRo/24tTe08o5rw/s1600/2.png&size=auto 90%
 ---
 # Ezra Pound
 
@@ -168,7 +170,6 @@ Note: Female Figures Imprisoned
 ---?image=https://richardawarren.files.wordpress.com/2012/01/composition-in-black.jpg&size=auto 90%
 
 ---?image=http://www.tate.org.uk/art/images/work/T/T00/T00622_10.jpg&size=auto 90%
-
 
 
 ----
