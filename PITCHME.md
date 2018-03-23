@@ -2,6 +2,8 @@
 
 A short introduction to Vorticism
 
+Note: vortices (virvlar) of modern life
+
 ---
 # Why?
 - All things can not be work.
@@ -66,10 +68,10 @@ That is the path of life, this is my forest.
 ---?image=http://www.bl.uk/learning/images/21cc/counterculture/Blessthehairdresser.jpg&size=auto 90%
 
 ---
-# Futurism and cubism
+# Futurism and Cubism (and Expressionism)
 
-Note: Futurism was mainly a italian art movement, also in love with the machines, and forza - forward. Many of them ended up as fascist.
-Cubism were centred around Picasso, many of them socialist.
+Note: Futurism was mainly a italian art movement, also in love with the machines, and forza - forward. Many of them ended up as fascist or anarchists.
+Cubism were centred around Picasso, many of them socialist. Expressionist were mostly german, but also people like norweigian artist Edward Munch.
 ---
 
 # Wyndham Lewis
