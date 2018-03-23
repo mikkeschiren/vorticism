@@ -90,6 +90,8 @@ Note: Two Mechanics c. 1912
 
 Note: Composition
 
+---?image=https://3.bp.blogspot.com/-Bn8JGoR83kQ/VR7kRNwYCVI/AAAAAAAAPRo/24tTe08o5rw/s1600/2.png&size=auto 90%
+
 ---
 # Wyndham Lewis
 
@@ -115,7 +117,7 @@ Note: (hated homosexuals, jews, and in the end - avant-garde) - Hitler (though: 
 
 ---?image=http://www.graphicine.com/wp-content/uploads/2014/02/edward_wadsworth_3-695x761.jpg&size=auto 90%
 
----?image=https://3.bp.blogspot.com/-Bn8JGoR83kQ/VR7kRNwYCVI/AAAAAAAAPRo/24tTe08o5rw/s1600/2.png&size=auto 90%
+
 ---
 # Ezra Pound
 
@@ -174,12 +176,6 @@ Note: Female Figures Imprisoned
 ---?image=https://richardawarren.files.wordpress.com/2012/01/composition-in-black.jpg&size=auto 90%
 
 ---?image=http://www.tate.org.uk/art/images/work/T/T00/T00622_10.jpg&size=auto 90%
-
-
-----
-# One exhibition in the groups existens
-
----
 
 ---?image=https://upload.wikimedia.org/wikipedia/de/9/98/First_Vorticist_Exhibition_Dor%C3%A9_Gallery_London_June_1915.jpg&size=auto 90%
 
