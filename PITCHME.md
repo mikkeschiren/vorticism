@@ -14,7 +14,7 @@ A short introduction to Vorticism
 
 - 1914-1915
 
----?image=https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/2/1433265781270/7d55d8e7-0081-488a-8ef2-64c633889204-1020x874.jpeg&size=auto 90%
+---?image=images/the_crowd.jpg&size=auto 90%
 
 ---
 ## Names
